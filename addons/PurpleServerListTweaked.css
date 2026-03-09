@@ -168,18 +168,18 @@
     width: 5px;
     border-radius: 50%;
     height: 5px!important;
-    /*box-shadow: 0px 0px 5px 1px currentColor;  */
+    box-shadow: 0px 0px 0px 1px currentColor;  
 }
 
 #app-mount .guilds__5e434 .listItem__650eb .pill_e5445c>span[style*="height: 8px;"] {
     border-radius: 5px;
-    /*box-shadow: 0px 0px 0px 0px currentColor;  */
+    box-shadow: 0px 0px 0px 1px currentColor;  
 }
 
 #app-mount .guilds__5e434 .listItem__650eb .pill_e5445c>span:not([style*="height: 40px;"]) {
     height: calc(var(--ServerSize) * 0.5) !important;
     border-radius: 5px;
-    /*box-shadow: 0px 0px 0px 0px currentColor;  */
+    box-shadow: 0px 0px 0px 1px currentColor;  
 }
 
 #app-mount .pillMessage_dc6abe {
